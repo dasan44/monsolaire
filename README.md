@@ -12,7 +12,17 @@ Tableau de bord pour l'écran rond **ESP32-2424S012C** : il affiche en temps ré
 | **Horloge** | Jour, date complète et heure (synchronisée par Internet, heure d'été/hiver automatique). | 10 s |
 | **Pokémon** | Un Pokémon aléatoire (image, nom en français, types), différent à chaque passage. | 10 s |
 
-Autres éléments :
+## Rendu
+<img width="1235" height="1306" alt="image" src="https://github.com/user-attachments/assets/9f4711bc-7b94-4f0d-ae1d-9f6a69f984fe" />
+<img width="708" height="739" alt="image" src="https://github.com/user-attachments/assets/a00cb5c9-0ac4-499a-b9a4-49e915308f00" />
+<img width="868" height="877" alt="image" src="https://github.com/user-attachments/assets/f75957c3-5d7d-4f12-b37d-2749c6a4191a" />
+<img width="1345" height="1417" alt="image" src="https://github.com/user-attachments/assets/bd6f571a-ef94-4602-b7cf-55912fa3f3dd" />
+<img width="1331" height="1334" alt="image" src="https://github.com/user-attachments/assets/6caf6836-a06e-42cf-bf1e-e80f0906bfa6" />
+<img width="1338" height="1349" alt="image" src="https://github.com/user-attachments/assets/5082d6e1-3791-4a49-bdc7-29ab029d7147" />
+<img width="1336" height="1355" alt="image" src="https://github.com/user-attachments/assets/44c82ee8-3d07-434e-80c5-50ce7889d209" />
+
+
+### Autres éléments :
 - **Animation de démarrage** de style interface futuriste, affichée uniquement à l'allumage, pendant la connexion au WiFi.
 - **Transitions** entre les écrans (rideaux + fondu du rétroéclairage).
 - **Tactile** : un appui passe à l'écran suivant.
